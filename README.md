@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Generative AI Engineer & Full Stack Developer | Passionate about building AI-driven web experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=👩‍💻+Generative+AI+Engineer;🌐+Full+Stack+Web+Developer;🧠+LLMs+%7C+NLP+%7C+AI+Apps;☁️+Cloud+%2B+DevOps;🎨+Design-Driven+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=👩‍💻+Generative+AI+Engineer;🌐+Full+Stack+Web+Developer;🚀+Building+AI-Driven+Apps+with+LLMs;🎨+Design+Lover+%7C+Cloud+Ninja;💡+Open+to+collaborations!" alt="Typing animation" />
 </p>
 
 ---
